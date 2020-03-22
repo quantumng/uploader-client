@@ -1,0 +1,31 @@
+.App {
+    position: relative;
+    height: 100%;
+}
+
+.uploader-wrapper {
+    width: 100%;
+    padding: 30px 100px;
+}
+
+.option-form {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 20px;
+    background-color: #f7f7f7;
+    box-sizing: border-box;
+}
+
+.option-btns {
+    /* float: right; */
+    /* align-self: flex-end; */
+}
+.form-selector {
+    width: 200px;
+}
